@@ -1,1 +1,1 @@
-# Hotel-Management-System---MySQL
+# Hotel-Management-System using MySQL
